@@ -2,13 +2,16 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              <KIM><Yong-Min>
-  email:             <gpsyo911@gmail.com>
+  name:              Yongmining
+  email:             gpsyo911@gmail.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Hi My dev. Log
+    😎 인공지능 개발/연구 노트 & 취미/일상 블로그입니다. 🎶
+
+    Please check my [CV](/public/CV.pdf) to find out for more about me !
+
 
   # This photo will be used in the about section
   picture:
@@ -24,8 +27,8 @@ author1:
   # Rearrange to change the order in which they appear
   social:
     # twitter:         <username>
-    github:          <username>
-    email:           <mail@domain.tld>
+    github:          yongmining
+    email:           gpsyo911@naver.com
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
@@ -36,7 +39,7 @@ author1:
     # spotify:         <user>/<number>
     # soundcloud:      <username>
     # lastfm:          <username>
-    instagram:       <username>
+    instagram:        yongmining_
     # flickr:          <string@string>
     # 500px:           <username>
     # dribbble:        <username>

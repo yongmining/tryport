@@ -36,13 +36,13 @@ keywords:              []
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/logo.png
+logo:                  /assets/img/me.jpg
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                <KIM> <Yong-Min>
-  email:               <gpsyo911@gmail.com>
+  name:              Yongmining
+  email:             gpsyo911@gmail.com
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
@@ -51,13 +51,13 @@ menu:
   - title:             About
     url:               /about/
   - title:             Dev. Log
-    url:               /example/
+    url:               /dev/
   - title:             Study Log
-    url:               /docs/
+    url:               /study/
   - title:             Resume
-    url:               /docs/
+    url:               /resume/
   - title:             Tags
-    url:               /docs/
+    url:               /tags/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -83,8 +83,8 @@ paginate_path:         /:num/
 # Theme
 # ---------------------------------------------------------------------------------------
 
-# theme: jekyll-theme-hydejack
-remote_theme: hydecorp/hydejack@v9
+theme: jekyll-theme-hydejack
+# remote_theme: hydecorp/hydejack@v9
 
 
 # Customizaton
